@@ -1,8 +1,6 @@
 package variables;
 
-/**
- * Created by User on 27/08/2017.
- */
+
 public class Variable1 {
     public static void main(String[] args) {
         byte a;
@@ -22,7 +20,7 @@ public class Variable1 {
         boolean status = true;
 
         String name;
-        name = "dskjfhkjdsh£%$%$ dshfjds345435435 dfjdsk";
+        name = "dskjfhkjdshÂ£%$%$ dshfjds345435435 dfjdsk";
         System.out.println(name);
     }
 
