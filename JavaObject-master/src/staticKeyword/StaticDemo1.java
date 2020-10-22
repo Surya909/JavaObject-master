@@ -1,8 +1,6 @@
 package staticKeyword;
 
-/**
- * Created by User on 04/09/2017.
- */
+
 public class StaticDemo1 {
 //    public static void main(String[] args) {
 //        System.out.println("I am in main method");
