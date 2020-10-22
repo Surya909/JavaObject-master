@@ -1,8 +1,6 @@
 package variables;
 
-/**
- * Created by User on 27/08/2017.
- */
+
 public class Method2 {
     public static void main(String[] args) {
         Method1 vikas = new Method1();
