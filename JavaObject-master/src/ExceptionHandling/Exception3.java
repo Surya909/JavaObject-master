@@ -2,9 +2,7 @@ package ExceptionHandling;
 
 import java.io.IOException;
 
-/**
- * Created by User on 16/01/2016.
- */
+
 public class Exception3 {
     static void validate(int age) throws ArithmeticException{
         if(age<18)
