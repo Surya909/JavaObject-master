@@ -1,8 +1,6 @@
 package conditionalStatments;
 
-/**
- * Created by User on 13/09/2017.
- */
+
 public class IfElseCondition2 {
 
     public static void main(String[] args) {
