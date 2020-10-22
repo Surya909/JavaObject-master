@@ -2,9 +2,7 @@ package SwitchCase;
 
 import java.util.Scanner;
 
-/**
- * Created by User on 27/11/2016.
- */
+
 public class DaySelectionTwo {
     public static void main(String args[]) {
         //Print message to warn to enter the number for selection of the day
