@@ -1,8 +1,6 @@
 package ExceptionHandling;
 
-/**
- * Created by User on 20/08/2017.
- */
+
 public class ExceptionDemo {
     public static void main(String[] args) {
       ExceptionDemo ed = new ExceptionDemo();
