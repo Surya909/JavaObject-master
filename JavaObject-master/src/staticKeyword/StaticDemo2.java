@@ -1,8 +1,6 @@
 package staticKeyword;
 
-/**
- * Created by User on 04/09/2017.
- */
+
 public class StaticDemo2 {
     int stuID;
     String stuName;
