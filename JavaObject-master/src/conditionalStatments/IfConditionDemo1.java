@@ -1,8 +1,5 @@
 package conditionalStatments;
 
-/**
- * Created by User on 04/09/2017.
- */
 public class IfConditionDemo1 {
     public static void main(String[] args) {
         int age=10;
