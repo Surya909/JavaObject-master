@@ -1,8 +1,6 @@
 package javaconcepts;
 
-/**
- * Created by User on 20/08/2017.
- */
+
 public class ArrayDemo2 {
     int marks[] = {90, 80, 91, 89, 78, 45};
 
