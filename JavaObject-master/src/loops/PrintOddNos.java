@@ -1,8 +1,6 @@
 package loops;
 
-/**
- * Created by User on 04/12/2016.
- */
+
 public class PrintOddNos {
     public static void main(String[] args) {
        PrintOddNos p1 = new PrintOddNos();
