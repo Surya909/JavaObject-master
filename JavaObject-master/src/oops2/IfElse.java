@@ -1,8 +1,6 @@
 package oops2;
 
-/**
- * Created by User on 27/11/2016.
- */
+
 public class IfElse {
     public static void main(String[] args) {
         //if statement
