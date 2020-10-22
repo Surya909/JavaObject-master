@@ -2,9 +2,7 @@ package ExceptionHandling;
 
 import java.util.Scanner;
 
-/**
- * Created by User on 01/05/2017.
- */
+
 public class FirstException {
    static int firstValue;
    static int secondValue;
