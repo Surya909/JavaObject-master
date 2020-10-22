@@ -1,8 +1,5 @@
 package inheritance;
 
-/**
- * Created by User on 27/11/2016.
- */
 public class Calc3 extends Calc2 {
     public static void main(String[] args) {
         Calc1 c1 = new Calc1();
