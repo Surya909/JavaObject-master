@@ -2,9 +2,7 @@ package ExceptionHandling;
 
 import java.io.IOException;
 
-/**
- * Created by User on 16/01/2016.
- */
+
 public class Exception4 {
     void myMethod()throws IOException{
         throw new IOException();//checked exception
