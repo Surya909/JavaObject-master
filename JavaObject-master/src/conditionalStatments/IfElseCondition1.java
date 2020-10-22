@@ -1,8 +1,6 @@
 package conditionalStatments;
 
-/**
- * Created by User on 13/09/2017.
- */
+
 public class IfElseCondition1 {
     final int MIN_BALANCE = 10;
 
