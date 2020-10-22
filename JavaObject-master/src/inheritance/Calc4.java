@@ -1,8 +1,6 @@
 package inheritance;
 
-/**
- * Created by User on 27/11/2016.
- */
+
 public class Calc4 extends Calc1 {
 
     int a=10, b=123;
