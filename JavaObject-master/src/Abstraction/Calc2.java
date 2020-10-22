@@ -1,8 +1,5 @@
 package Abstraction;
 
-/**
- * Created by User on 04/12/2016.
- */
 public class Calc2 {
     static Calc1 c1;
     static MyInterface mc;
