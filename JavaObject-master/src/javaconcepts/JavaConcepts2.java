@@ -1,8 +1,6 @@
 package javaconcepts;
 
-/**
- * Created by User on 20/12/2015.
- */
+
 public class JavaConcepts2 {
 
     public static void main(String args[])
