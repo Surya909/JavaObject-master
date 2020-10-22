@@ -1,8 +1,6 @@
 package staticKeyword;
 
-/**
- * Created by User on 04/09/2017.
- */
+
 public class StaticDemo3 {
     static int a;
     public static void main(String[] args) {
