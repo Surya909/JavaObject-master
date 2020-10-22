@@ -1,8 +1,6 @@
 package loops;
 
-/**
- * Created by User on 16/01/2016.
- */
+
 public class Loop1 {
     public static void main(String args[])
     {
