@@ -2,9 +2,7 @@ package JunitAnnotationsPractice;
 
 import org.junit.*;
 
-/**
- * Created by User on 13/01/2018.
- */
+
 public class JUnitAnnotations {
     @BeforeClass
     public static void startBrowser() {
