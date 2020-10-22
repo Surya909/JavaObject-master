@@ -2,9 +2,7 @@ package encapsulation;
 
 import java.util.Scanner;
 
-/**
- * Created by User on 20/12/2015.
- */
+
 public class Test {
     public static void main(String[] args){
         Student s=new Student();
