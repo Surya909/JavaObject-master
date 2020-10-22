@@ -1,8 +1,6 @@
 package ConstructorMethod;
 
-/**
- * Created by User on 18/12/2017.
- */
+
 public class Constructor {
     static int age;
     static String name;
