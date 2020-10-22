@@ -1,8 +1,6 @@
 package javaconcepts;
 
-/**
- * Created by User on 05/10/2017.
- */
+
 public class Poly4 extends Poly3 {
     int age = 45;
     public static void main(String args[]) {
