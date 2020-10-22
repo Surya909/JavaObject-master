@@ -1,8 +1,5 @@
 package variables;
 
-/**
- * Created by User on 27/08/2017.
- */
 public class Method1 {
       public void add() {
         int a=12;
