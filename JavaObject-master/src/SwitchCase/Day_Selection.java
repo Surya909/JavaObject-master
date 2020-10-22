@@ -1,8 +1,6 @@
 package SwitchCase;
 
-/**
- * Created by User on 27/11/2016.
- */
+
 public class Day_Selection {
     public static void main(String args[]) {
         Day_Selection ds = new Day_Selection();
