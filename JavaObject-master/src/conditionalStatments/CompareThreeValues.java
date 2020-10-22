@@ -1,8 +1,6 @@
 package conditionalStatments;
 
-/**
- * Created by User on 13/09/2017.
- */
+
 public class CompareThreeValues {
     public static void main(String[] args) {
         CompareThreeValues compare = new CompareThreeValues();
