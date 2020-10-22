@@ -1,8 +1,6 @@
 package javaconcepts;
 
-/**
- * Created by User on 20/12/2015.
- */
+
 public class Poly1 {
     public void add(int a,int b)
     {
