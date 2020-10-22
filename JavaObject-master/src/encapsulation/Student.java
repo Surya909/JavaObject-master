@@ -1,8 +1,6 @@
 package encapsulation;
 
-/**
- * Created by User on 20/12/2015.
- */
+
 public class Student {
     private String name;
 
