@@ -1,8 +1,6 @@
 package methodsPractice;
 
-/**
- * Created by User on 27/11/2016.
- */
+
 public class MethodOne {
     static int num1=10, num2=18;
 
