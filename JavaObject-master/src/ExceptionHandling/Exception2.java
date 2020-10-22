@@ -1,8 +1,6 @@
 package ExceptionHandling;
 
-/**
- * Created by User on 16/01/2016.
- */
+
 public class Exception2 {
     public static void main(String args[]){
         try{
