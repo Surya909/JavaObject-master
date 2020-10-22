@@ -3,9 +3,6 @@ package ArrayLists;
 import java.util.ArrayList;
 import java.util.Iterator;
 
-/**
- * Created by User on 18/12/2017.
- */
 public class ListPractice2 {
 
     public static void main(String[] args) {
