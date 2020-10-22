@@ -1,8 +1,6 @@
 package methodsPractice;
 
-/**
- * Created by User on 27/11/2016.
- */
+
 public class MethodTwo {
     static int num1, num2;
     public float additionThree(int num1, int num2) {
