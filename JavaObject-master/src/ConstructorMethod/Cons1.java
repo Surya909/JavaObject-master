@@ -1,8 +1,6 @@
 package ConstructorMethod;
 
-/**
- * Created by User on 27/11/2016.
- */
+
 public class Cons1 {
     int StuID;
     String StuName;
